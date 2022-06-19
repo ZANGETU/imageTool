@@ -1,0 +1,17 @@
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\bin\Debug\net6.0-windows\imageTool.exe
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\bin\Debug\net6.0-windows\imageTool.deps.json
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\bin\Debug\net6.0-windows\imageTool.runtimeconfig.json
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\bin\Debug\net6.0-windows\imageTool.dll
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\bin\Debug\net6.0-windows\imageTool.pdb
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\obj\Debug\net6.0-windows\imageTool.csproj.AssemblyReference.cache
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\obj\Debug\net6.0-windows\imageTool.Form1.resources
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\obj\Debug\net6.0-windows\imageTool.csproj.GenerateResource.cache
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\obj\Debug\net6.0-windows\imageTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\obj\Debug\net6.0-windows\imageTool.AssemblyInfoInputs.cache
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\obj\Debug\net6.0-windows\imageTool.AssemblyInfo.cs
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\obj\Debug\net6.0-windows\imageTool.csproj.CoreCompileInputs.cache
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\obj\Debug\net6.0-windows\imageTool.dll
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\obj\Debug\net6.0-windows\refint\imageTool.dll
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\obj\Debug\net6.0-windows\imageTool.pdb
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\obj\Debug\net6.0-windows\imageTool.genruntimeconfig.cache
+C:\Users\linus\OneDrive\デスクトップ\imageTool\imageTool\obj\Debug\net6.0-windows\ref\imageTool.dll
