@@ -1,8 +1,8 @@
 # imageTool
-動画内で作成した画像ツールのプロジェクトです
+This is a project for the image tool created in the video
 
-禁止事項
+Prohibited items
 
-・プログラムの二次配布(改変してある場合は再配布可)
+Secondary distribution of the program (redistribution is allowed if the program is modified)
 
-何かあればDiscordまで　By YURIRI
+If you have any questions, please contact us on Discord By YURIRI
